@@ -1,0 +1,1 @@
+from rishbot.notify import *
